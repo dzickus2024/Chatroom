@@ -1,6 +1,7 @@
 name: 🚀 Deploy to web server
 
-on: push 
+on: 
+  push:
  
   workflow_dispatch:
  
