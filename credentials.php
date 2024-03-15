@@ -6,6 +6,7 @@ function get_credentials(){
 
     $param->host = "localhost";
     $param->port = 5432;
+    $param->dbname = "chatrooms";
     $param->user = "dzickus";
     $param->password = "Dylan839";
 
