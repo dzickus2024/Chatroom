@@ -6,4 +6,4 @@ $credentials = get_credentials();
 
 $conn = pg_connect($credentials);
 
-echo $conn;
+echo "\$conn" . $conn;
