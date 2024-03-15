@@ -17,5 +17,3 @@ function get_credentials(){
 
     return $hoststring;
 }
-
-echo get_credentials();
