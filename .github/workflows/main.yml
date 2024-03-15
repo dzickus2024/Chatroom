@@ -1,9 +1,6 @@
 name: 🚀 Deploy to web server
 
-on:
- 
-  push:
-    branches: [ main ] 
+on: push 
  
   workflow_dispatch:
  
